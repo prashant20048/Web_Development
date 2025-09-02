@@ -1,0 +1,13 @@
+table,th,td {
+    width: 600px;
+    height: 50px;
+    border: 1px double black;
+}
+
+
+#aquamarine{
+    background-color: aquamarine;
+}
+#aqua{
+    background-color: aqua;
+}
